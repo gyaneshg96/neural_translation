@@ -7,10 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1Ix5v5dq-xo0fzh4DVav1HZdUrrz7UQeR
 """
 
-from google.colab import drive
+'''from google.colab import drive
 !mkdir drive
-drive.mount('/content/drive/')
-directory = "/content/drive/My Drive/ML/"
+drive.mount('/content/drive/')'''
+directory = "./"
 
 import unicodedata
 import re
